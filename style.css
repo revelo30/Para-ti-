@@ -1,0 +1,69 @@
+#miBoton {
+  background-color: gold;
+  color: white;
+  margin: 0px 0px 0px 625px;
+  padding: 15px 25px;
+  border: blue;
+  border-radius: 10px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#miBoton:hover{
+  background-color: #b02a56;
+}
+
+#carta{
+  font-family: "Lovers Quarrel", cursive;
+  font-style: normal;
+  display: none;
+  margin: -80px auto;
+  width: 80%;
+  padding: 100px 160px;
+  max-width: 5000px;
+  z-index: -1;
+  background-color: palevioletred;
+  background-image: url('https://img.freepik.com/premium-photo/vintage-floral-background-with-frame_800563-14438.jpg?w=360');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 50px;
+  color: #000;
+  overflow: auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;  
+}
+
+#miBoton2 {             
+  background-color: blue;
+  color: white;
+  padding: 15px 25px;
+  border: blue;
+  border-radius: 10px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.4s;
+}
+
+#miBoton2:hover{
+  background-color: #245078;
+}
+
+#carta2 {
+  display: none;
+  margin: 30px auto;
+  width: 80%;
+  max-width: 4000px;
+  padding: 20px;
+  border: 6px rgb(237, 91, 91) outset;
+  background-color: rgb(212, 144, 167);
+  font-size: 25px;
+  color: #333;
+}
+
+
+  
