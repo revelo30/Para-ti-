@@ -4,7 +4,7 @@
   
   boton.onclick = function() {
     carta.style.display = "block";
-    boton.style.display = "none";
+    boton.style.display = "block";
     title1.style.display = "none";
   }
     
@@ -48,4 +48,5 @@ form.addEventListener("submit", async function(event) {
         alert("Hubo un error al enviar. Intenta otra vez");
     }
 });
+
 
