@@ -1,4 +1,5 @@
 #miBoton {
+  display: block;
   background-color: gold;
   color: white;
   width: 270px;
@@ -67,6 +68,7 @@ h1 {
 
 
   
+
 
 
 
