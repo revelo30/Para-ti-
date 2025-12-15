@@ -1,8 +1,6 @@
 #miBoton {
-  display: block;
   background-color: gold;
   color: white;
-  margin: 30px auto;
   padding: 15px 25px;
   border-radius: 10px;
   font-size: 18px;
@@ -66,6 +64,7 @@ h1 {
 
 
   
+
 
 
 
